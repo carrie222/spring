@@ -1,6 +1,5 @@
 package com.limingyan;
 
-import com.sun.deploy.si.SingleInstanceImpl;
 
 public class RedisApplication {
 
